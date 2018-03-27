@@ -1,0 +1,35 @@
+Instruções:
+Espaço = Pula
+Setas direita e esquerda = Anda (apenas no pulo)
+
+Proposta:
+
+Juliana é ideia de uma labradora que deve buscar seu tão amado osso, em sua curta epopéia deve saltar por caixas mas ela só pode ir para frente ou para trás quando está no ar. É um jogo simples e é nossa primeira produção utilizando a Unity.
+
+
+
+Equipe:
+
+Thales Fukuda, Arthur Vianna, Rafael Marinheiro - Programadores
+
+Raquel Lima, Leticia Olibratoski, Lucas Hachiya - Designers
+
+Gustavo Abiner - Sonorização
+
+Luiz Fellipe - Level design
+
+Gabriel Vieira - Diretor Geral e escritor desse texto.
+
+
+
+Agradecimentos:
+
+- Professores do IFPR (Carla pelas aulas da Unity, Mônia pelas aulas de Design, Laureano e Denise pela programação, Marlon e Albini pela matemática/fisica para jogos, Luis pelas aulas de sonorização e Edilson pelas aulas de roteiro)
+
+- Colegas da turma
+
+- Ao Bruno e a equipe da Jam pela oportunidade
+
+- As crianças que fizeram os desenhos: Maria, Luan, Willian e Beatriz de Oliveira.s
+
+(Pedimos desculpa pela simplicidade do jogo mas ficamos felizes e satisfeitos com nosso primeiro projeto concluido)

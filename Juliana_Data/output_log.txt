@@ -1,0 +1,59 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 23.21.13.9065]
+    Renderer: NVIDIA GeForce GTX 660
+    Vendor:   NVIDIA
+    VRAM:     1970 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ArtVin\Desktop\Juliana\Juliana_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+HDR RenderTexture format is not supported on this platform. This camera will render without HDR buffers.
+ 
+(Filename:  Line: 2239)
+
+UnloadTime: 0.254056 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.629366 ms (FindLiveObjects: 0.008083 ms CreateObjectMapping: 0.009238 ms MarkObjects: 0.261369 ms  DeleteObjects: 0.009238 ms)
+
+UnloadTime: 0.383778 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.530053 ms (FindLiveObjects: 0.007698 ms CreateObjectMapping: 0.009238 ms MarkObjects: 0.208249 ms  DeleteObjects: 0.003079 ms)
+
+UnloadTime: 0.339126 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.627056 ms (FindLiveObjects: 0.007698 ms CreateObjectMapping: 0.009623 ms MarkObjects: 0.291394 ms  DeleteObjects: 0.006543 ms)
+
+UnloadTime: 0.373000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.481936 ms (FindLiveObjects: 0.007698 ms CreateObjectMapping: 0.010008 ms MarkObjects: 0.093538 ms  DeleteObjects: 0.003079 ms)
+
+UnloadTime: 0.317570 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.572396 ms (FindLiveObjects: 0.008083 ms CreateObjectMapping: 0.010008 ms MarkObjects: 0.234809 ms  DeleteObjects: 0.006543 ms)
+
+UnloadTime: 0.372230 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.627056 ms (FindLiveObjects: 0.007698 ms CreateObjectMapping: 0.010008 ms MarkObjects: 0.290624 ms  DeleteObjects: 0.006928 ms)
+
